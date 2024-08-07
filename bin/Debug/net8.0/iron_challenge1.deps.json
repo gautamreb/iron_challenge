@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "iron_challenge1/1.0.0": {
+        "runtime": {
+          "iron_challenge1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iron_challenge1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

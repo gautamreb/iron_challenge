@@ -1,0 +1,14 @@
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/bin/Debug/net8.0/iron_challenge1
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/bin/Debug/net8.0/iron_challenge1.deps.json
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/bin/Debug/net8.0/iron_challenge1.runtimeconfig.json
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/bin/Debug/net8.0/iron_challenge1.dll
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/bin/Debug/net8.0/iron_challenge1.pdb
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.AssemblyInfoInputs.cache
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.AssemblyInfo.cs
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.csproj.CoreCompileInputs.cache
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.dll
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/refint/iron_challenge1.dll
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.pdb
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/iron_challenge1.genruntimeconfig.cache
+/Users/gautam.sin/Downloads/Iron_c/iron_challenge1/obj/Debug/net8.0/ref/iron_challenge1.dll
